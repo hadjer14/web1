@@ -1,0 +1,46 @@
+.container {
+  width: 100%;
+  height: 100vh;
+  background-color: #be0e0e;
+}
+
+.box {
+  width: 400px;
+  height: 400px;
+  background-color: rgb(158, 111, 40);
+  border: 10px solid rgb(0, 17, 255);
+}
+
+.box {
+  width: 400px;
+  height: 400px;
+  background-color: rgb(178, 144, 49);
+  border: 10px solid royalblue;
+}
+
+.box {
+  width: 400px;
+  height: 400px;
+  background-color: rgb(225, 166, 94);
+  border: 10px solid blue;
+}
+.box {
+  width: 400px;
+  height: 400px;
+  background-color: rgb(225, 166, 94);
+  border: 10px solid blue;
+}
+
+.box {
+  width: 400px;
+  height: 400px;
+  background-color: rgb(225, 166, 94);
+  border: 10px solid blue;
+}
+.margin-box {
+  margin-bottom: 10px;
+}
+
+.padding-box {
+  padding: 0 10px;
+}

@@ -1,0 +1,10 @@
+.h1{
+    justify-items: flex-end;
+}
+
+.box {
+    width: 100px;
+    height:600px;
+    background-color: rgb(102, 66, 186);
+  }
+  
